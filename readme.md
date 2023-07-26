@@ -105,3 +105,13 @@ microk8s.kubectl port-forward -n kube-system --address 0.0.0.0 service/kubernete
 ```bash
 ./admk8s.dli.sh version
 ```
+
+
+## Author
+
+name|email|desciption
+:--|:--|:--
+yemiancheng|<ymc.github@gmail.com>||
+
+## License
+MIT
